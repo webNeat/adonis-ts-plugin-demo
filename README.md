@@ -1,0 +1,1 @@
+https://github.com/webNeat/adonis-ts-plugin-demo/raw/main/demo.mp4
